@@ -7,7 +7,7 @@ Data Scientist
 Tried my hand at programming back in 2020, but gave it up until I found my passion in Data Science 2 years later.
 
 * 🌍  I'm based in Elista, Russia
-* ✉️  You can contact me at [naianadzh@gmail.com](mailto:naianadzh@gmail.com)
+* ✉️  You can contact me at [na1ana@bk.ru](mailto:na1ana@bk.ru)
 * 🧠  I'm learning SQL, Python, Pandas, Matplotlib, SciPy, Seaborn, Scikit-learn
 
 ### Skills
